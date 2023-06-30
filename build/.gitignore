@@ -1,0 +1,4 @@
+pkg/
+src/
+zterm/
+zterm-*.pkg.tar.zst

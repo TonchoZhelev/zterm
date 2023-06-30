@@ -1,6 +1,6 @@
 # Maintainer: Toncho Zhelev <toncho.zhelev@gmail.com>
 pkgname='zterm'
-pkgver=r3.525f786
+pkgver=r4.7e27aa8
 pkgrel=1
 # epoch=
 pkgdesc="My personal termial emulator, based on st"
