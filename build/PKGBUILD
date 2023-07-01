@@ -1,5 +1,5 @@
 # Maintainer: Toncho Zhelev <toncho.zhelev@gmail.com>
-pkgname='zterm'
+pkgname='my-zterm'
 pkgver=r4.7e27aa8
 pkgrel=1
 # epoch=
