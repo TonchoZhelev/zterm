@@ -1,6 +1,6 @@
 # Maintainer: Toncho Zhelev <toncho.zhelev@gmail.com>
 pkgname='my-zterm'
-pkgver=r4.7e27aa8
+pkgver=r6.642216a
 pkgrel=1
 # epoch=
 pkgdesc="My personal termial emulator, based on st"
@@ -10,7 +10,7 @@ license=('MIT')
 groups=()
 depends=('libxft' 'tmux')
 makedepends=('make' 'git')
-source=('zterm::git+ssh://git@my.github.com/PifeVoxd/zterm.git')
+source=('my-zterm::git+ssh://git@my.github.com/PifeVoxd/zterm.git')
 md5sums=('SKIP')
 
 pkgver() {
